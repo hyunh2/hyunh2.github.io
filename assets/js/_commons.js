@@ -21,3 +21,5 @@
 {% include_relative _commons/checkbox.js %}
 
 {% include_relative _utils/tooltip-loader.js %}
+
+{% include_relative _commons/smooth-scroll.js %}
